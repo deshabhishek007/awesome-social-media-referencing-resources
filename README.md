@@ -14,6 +14,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Limey](https://limey.io/)
 - [Taplink](https://taplink.at)
 - [Shor.](https://dash.shor.by/smartpage)
+- [Lnk.Bio](https://lnk.bio/signup)
+- [Campsite Bio](https://app.campsite.bio/create-account)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
