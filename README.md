@@ -12,7 +12,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Beacons AI](https://beacons.ai/fitehal)
 - [Linktree](https://linktr.ee/)
 - [Limey](https://limey.io/)
-- [Taplink](taplink.at)
+- [Taplink](https://taplink.at)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
