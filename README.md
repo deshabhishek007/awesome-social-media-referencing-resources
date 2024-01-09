@@ -13,6 +13,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linktree](https://linktr.ee/)
 - [Limey](https://limey.io/)
 - [Taplink](https://taplink.at)
+- [Shor.](https://dash.shor.by/smartpage)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
