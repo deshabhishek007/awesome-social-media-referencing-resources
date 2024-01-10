@@ -56,6 +56,9 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [linkfly](https://linkfly.to/en)
 - [Many.link](https://many.link/)
 - [Pallyy](https://pallyy.com/)
+- [linkpaw](https://linkpaw.com/)
+- [leadpages](https://www.leadpages.com/)
+- [koji](https://withkoji.com/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
