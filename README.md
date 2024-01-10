@@ -34,6 +34,10 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Biolinky.co](https://biolinky.co/)
 - [Lynkfire](https://lynkfire.com/)
 - [Sked Link](https://app.sked.link/login)
+- [Linksome](https://linksome.me/s/)
+- [myurls.bio](https://myurls.bio/)
+- [myurls.bio](https://myurls.bio/)
+- []()
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
