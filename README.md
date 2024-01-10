@@ -54,6 +54,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Showwcase](https://www.showwcase.com/)
 - [oneprofile](https://www.oneprofile.com.au/)
 - [linkfly](https://linkfly.to/en)
+- [Many.link](https://many.link/)
+- [Pallyy](https://pallyy.com/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
