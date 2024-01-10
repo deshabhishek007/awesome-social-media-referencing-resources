@@ -53,6 +53,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Biolincs](https://biolinc.me/)
 - [Showwcase](https://www.showwcase.com/)
 - [oneprofile](https://www.oneprofile.com.au/)
+- [linkfly](https://linkfly.to/en)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
