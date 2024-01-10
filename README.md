@@ -13,7 +13,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linktree](https://linktr.ee/)
 - [Limey](https://limey.io/)
 - [Taplink](https://taplink.at)
-- [Shor.](https://dash.shor.by/smartpage)
+- [Shorby](https://dash.shor.by/smartpage)
 - [Lnk.Bio](https://lnk.bio/signup)
 - [Campsite Bio](https://app.campsite.bio/create-account)
 - [Carrd](https://carrd.co/build)
