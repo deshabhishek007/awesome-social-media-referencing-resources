@@ -26,6 +26,9 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Milkshake App](https://milkshake.app/)
 - [Flowpage](https://www.flowcode.com/page)
 - [Url.bio](https://url.bio/)
+- [Yat](https://y.at/fantasy)
+- [LinkinProfile](https://linkinprofile.com/)
+- 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
