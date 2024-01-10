@@ -31,7 +31,9 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linkkle](http://ww7.linkkle.com/?usid=19&utid=18434148373)
 - [Swipop](https://www.toolbase.io/swipop)
 - [Hype Link](https://hyp.link/)
-- []()
+- [Biolinky.co](https://biolinky.co/)
+- [Lynkfire](https://lynkfire.com/)
+- [Sked Link](https://app.sked.link/login)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
