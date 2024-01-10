@@ -21,6 +21,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Beacons.ai](https://beacons.ai/)
 - [BioLinky.co](https://biolinky.co/)
 - [Solo.to](https://solo.to/)
+- [Bio.fm](https://bio.fm/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
