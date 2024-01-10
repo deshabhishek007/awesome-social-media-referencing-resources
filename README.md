@@ -16,6 +16,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Shor.](https://dash.shor.by/smartpage)
 - [Lnk.Bio](https://lnk.bio/signup)
 - [Campsite Bio](https://app.campsite.bio/create-account)
+- [Carrd](https://carrd.co/build)
+- [Woorise](https://woorise.com/templates)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
