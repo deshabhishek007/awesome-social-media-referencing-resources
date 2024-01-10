@@ -22,7 +22,6 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [BioLinky.co](https://biolinky.co/)
 - [Solo.to](https://solo.to/)
 - [Bio.fm](https://bio.fm/)
-- [Taplink.at](https://taplink.at/en/)
 - [ContactInBio](https://www.contactinbio.com/)
 - [Milkshake App](https://milkshake.app/)
 - [Flowpage](https://www.flowcode.com/page)
