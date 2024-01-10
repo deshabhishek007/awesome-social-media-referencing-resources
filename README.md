@@ -19,7 +19,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Carrd](https://carrd.co/build)
 - [Woorise](https://woorise.com/templates)
 - [Beacons.ai](https://beacons.ai/)
-- 
+- [Biolinky.co](https://biolinky.co/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
