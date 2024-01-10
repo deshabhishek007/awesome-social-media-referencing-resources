@@ -18,7 +18,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Campsite Bio](https://app.campsite.bio/create-account)
 - [Carrd](https://carrd.co/build)
 - [Woorise](https://woorise.com/templates)
-
+- [Beacons.ai](https://beacons.ai/)
+- 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
