@@ -37,6 +37,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linksome](https://linksome.me/s/)
 - [myurls.bio](https://myurls.bio/)
 - [biosites](https://biosites.com/)
+- [Linkjoy](https://linkjoy.io/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
