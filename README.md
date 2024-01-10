@@ -45,6 +45,14 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Pixela](https://pixe.la/)
 - [Metapop](https://www.metapop.world/)
 - [Vivalnk](https://www.vivalink.com/)
+- [Snipfeed](https://snipfeed.co/)
+- [Everlinks](https://www.everlink.ca/)
+- [iLink](https://www.ilink-digital.com/)
+- [LinkMee](https://www.linkme.qa/)
+- [ThriveDesk Links](https://www.thrivedesk.com/)
+- [Biolincs](https://biolinc.me/)
+- [Showwcase](https://www.showwcase.com/)
+- [oneprofile](https://www.oneprofile.com.au/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
