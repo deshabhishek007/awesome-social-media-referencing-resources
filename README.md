@@ -50,7 +50,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [LynxInBio](https://www.lynxinbio.com/)
 - [Pallyy](https://pallyy.com/)
 - [Everlinks](https://everlink.tools/)
-
+- [IGLinks.io](https://www.iglinks.io/)
+- [Hypage](https://hypage.com/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
