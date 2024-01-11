@@ -54,6 +54,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Hypage](https://hypage.com/)
 - [Tapkit](https://tapkit.com/)
 - [Feedlink](https://feed.link/)
+- [ContactInBio](https://www.contactinbio.com/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
