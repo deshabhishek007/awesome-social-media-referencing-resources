@@ -6,68 +6,69 @@ Whether you're a social media professional looking to streamline your content ac
 
 Our goal is to provide a comprehensive guide that covers the spectrum of tools and resources necessary for effective social media management and referencing. Dive into our collection and discover the tools that will help you leverage the power of social media to your advantage.
 
+## Sites You Can Use
 
-About Me: [about.me]
-AllMyLinks: [allmylinks.com]
-Beacons AI: [beacons.ai/fitehal]
-Bio.fm: [bio.fm]
-Biolincs: [biolinc.me]
-BioLinky.co: [biolinky.co]
-Biosites: [biosites.com]
-Bitly: [bitly.com]
-Campsite Bio: [app.campsite.bio/create-account]
-Carrd: [carrd.co/build]
-ContactInBio: [contactinbio.com]
-Cutt.ly: [cutt.ly]
-Elink: [elink.io]
-Everlinks: [everlink.tools]
-Feedlink: [feed.link]
-Flowpage: [flowcode.com/page]
-Hopp by Wix: [hopp.co]
-Hype Link: [hyp.link]
-Hypage: [hypage.com]
-IGLinks.io: [iglinks.io]
-iLink: [il.ink]
-Instabio: [instabio.cc/en]
-Instapage: [instapage.com]
-Leadpages: [leadpages.com]
-Limey: [limey.io]
-Linkat: [linkat.bio]
-Linkfly: [linkfly.to/en]
-LinkHub: [linkhub.online]
-LinkinProfile: [linkinprofile.com]
-LinkJoy: [linkjoy.io]
-Linkpaw: [linkpaw.com]
-LinkPod: [linkpod.co]
-Linksome: [linksome.me/s]
-Linktree: [linktr.ee]
-Linktree Alternative: [linktreealternative.com]
-LinkUp: [linkup.page]
-LinkUpPage: [linkup.page]
-Litelink: [litelink.at]
-Lnk.Bio: [lnk.bio/signup]
-LynxInBio: [lynxinbio.com]
-Mainpage: [mainpage.me]
-Many.Bio: [many.bio]
-Milkshake: [milkshake.app]
-Pallyy: [pallyy.com]
-Shorby: [dash.shor.by/smartpage]
-ShortStack: [shortstack.com]
-Snipfeed: [snipfeed.co]
-Solo.to: [solo.to]
-Stan: [stan.com.au]
-surveysparrow: [surveysparrow.com]
-Swipop: [toolbase.io/swipop]
-Tap.Bio: [tap.bio]
-Tapkit: [tapkit.com]
-Taplink: [taplink.at]
-The Leap: [theleap.co]
-ThriveDesk Links: [thrivedesk.com]
-Unbounce: [unbounce.com]
-Url.bio: [url.bio]
-Woorise: [woorise.com/templates]
-Zaap: [zaap.ai]
-
+- [About Me](https://about.me)
+- [AllMyLinks](https://allmylinks.com/)
+- [Beacons AI](https://beacons.ai/fitehal)
+- [Bio.fm](https://bio.fm/)
+- [BioLinky.co](https://biolinky.co/)
+- [Biolincs](https://biolinc.me/)
+- [Biosites](https://biosites.com/)
+- [Bitly](https://bitly.com/)
+- [Campsite Bio](https://app.campsite.bio/create-account)
+- [Carrd](https://carrd.co/build)
+- [ContactInBio](https://www.contactinbio.com/)
+- [ContactInBio](https://www.contactinbio.com/) - Duplicate entry
+- [Cutt.ly](https://cutt.ly/)
+- [Elink](https://elink.io/)
+- [Everlinks](https://everlink.tools/)
+- [Feedlink](https://feed.link/)
+- [Flowpage](https://www.flowcode.com/page)
+- [Hopp by Wix](https://www.hopp.co/)
+- [Hype Link](https://hyp.link/)
+- [IGLinks.io](https://www.iglinks.io/)
+- [iLink](https://il.ink/)
+- [Instabio](https://instabio.cc/en)
+- [Instapage](https://instapage.com/)
+- [Leadpages](https://www.leadpages.com/)
+- [Limey](https://limey.io/)
+- [Linelink](https://linelink.me/)
+- [Linkat](https://linkat.bio/)
+- [LinkFly](https://linkfly.to)
+- [Linkfly](https://linkfly.to/en) - Duplicate entry
+- [Linkgallery](https://rebrandly.com/linkgallery)
+- [LinkHub](https://linkhub.online/)
+- [LinkinProfile](https://linkinprofile.com/)
+- [Linkjoy](https://linkjoy.io/)
+- [Linkpaw](https://linkpaw.com/)
+- [Linkpod](https://linkpod.co/)
+- [Linksome](https://linksome.me/s/)
+- [Linktree](https://linktr.ee/)
+- [Linktree Alternative](https://linktreealternative.com/)
+- [Liinks](https://www.liinks.co/)
+- [Litelink](https://litelink.at/)
+- [Lnk.Bio](https://lnk.bio/signup)
+- [Mainpage](https://mainpage.me/)
+- [Many.Bio](https://many.bio/)
+- [Milkshake](https://milkshake.app/)
+- [Pallyy](https://pallyy.com/)
+- [Shorby](https://dash.shor.by/smartpage)
+- [ShortStack](https://www.shortstack.com/)
+- [Snipfeed](https://snipfeed.co/)
+- [Solo.to](https://solo.to/)
+- [Stan](https://www.stan.com.au/)
+- [Surveysparrow](https://surveysparrow.com/)
+- [Swipop](https://www.toolbase.io/swipop)
+- [Tap.Bio](https://tap.bio/)
+- [Tapkit](https://tapkit.com/)
+- [Taplink](https://taplink.at)
+- [The Leap](https://www.theleap.co/)
+- [ThriveDesk Links](https://www.thrivedesk.com/)
+- [Unbounce](https://unbounce.com/)
+- [Url.bio](https://url.bio/)
+- [Woorise](https://woorise.com/templates)
+- [Zaap](https://www.zaap.ai/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
@@ -86,6 +87,3 @@ Your contributions and suggestions are 💖 welcome! We strive to build a compre
 ---
 
 Join us in creating the ultimate resource for social media referencing and help make the digital world more connected and informed!
-
-
-
