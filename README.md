@@ -57,6 +57,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [ContactInBio](https://www.contactinbio.com/)
 - [linkgallery](https://rebrandly.com/linkgallery)
 - [Liinks](https://www.liinks.co/)
+- [Linkpod](https://linkpod.co/)
 - [surveysparrow](https://surveysparrow.com/)
 - [ShortStack](https://www.shortstack.com/)
 - [Milkshake](https://milkshake.app/)
