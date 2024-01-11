@@ -55,6 +55,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Tapkit](https://tapkit.com/)
 - [Feedlink](https://feed.link/)
 - [ContactInBio](https://www.contactinbio.com/)
+- [linkgallery](https://rebrandly.com/linkgallery)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
