@@ -44,6 +44,9 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linktree Alternative](https://linktreealternative.com/)
 - [AllMyLinks](https://allmylinks.com/)
 - [iLink](https://il.ink/)
+- [Bitly](https://bitly.com/)
+- [Elink](https://elink.io/)
+- [Zaap](https://www.zaap.ai/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
