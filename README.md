@@ -47,6 +47,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Bitly](https://bitly.com/)
 - [Elink](https://elink.io/)
 - [Zaap](https://www.zaap.ai/)
+- [LynxInBio](https://www.lynxinbio.com/)
+- 
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
