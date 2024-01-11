@@ -48,7 +48,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Elink](https://elink.io/)
 - [Zaap](https://www.zaap.ai/)
 - [LynxInBio](https://www.lynxinbio.com/)
-- 
+- [Pallyy](https://pallyy.com/)
+- [Everlinks](https://everlink.tools/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
