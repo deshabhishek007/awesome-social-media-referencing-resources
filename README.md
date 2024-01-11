@@ -52,6 +52,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Everlinks](https://everlink.tools/)
 - [IGLinks.io](https://www.iglinks.io/)
 - [Hypage](https://hypage.com/)
+- [Tapkit](https://tapkit.com/)
+- [Feedlink](https://feed.link/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
