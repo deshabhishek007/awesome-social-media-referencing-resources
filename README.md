@@ -56,6 +56,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Feedlink](https://feed.link/)
 - [ContactInBio](https://www.contactinbio.com/)
 - [linkgallery](https://rebrandly.com/linkgallery)
+- [Liinks](https://www.liinks.co/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
