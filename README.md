@@ -7,71 +7,66 @@ Whether you're a social media professional looking to streamline your content ac
 Our goal is to provide a comprehensive guide that covers the spectrum of tools and resources necessary for effective social media management and referencing. Dive into our collection and discover the tools that will help you leverage the power of social media to your advantage.
 
 
-## Sites You Can Use
-- [About Me](https://about.me)
-- [Beacons AI](https://beacons.ai/fitehal)
-- [Linktree](https://linktr.ee/)
-- [Limey](https://limey.io/)
-- [Taplink](https://taplink.at)
-- [LinkUp](https://linkup.page/)
-- [Shorby](https://dash.shor.by/smartpage)
-- [Lnk.Bio](https://lnk.bio/signup)
-- [Campsite Bio](https://app.campsite.bio/create-account)
-- [Carrd](https://carrd.co/build)
-- [Woorise](https://woorise.com/templates)
-- [BioLinky.co](https://biolinky.co/)
-- [Solo.to](https://solo.to/)
-- [Bio.fm](https://bio.fm/)
-- [ContactInBio](https://www.contactinbio.com/)
-- [Flowpage](https://www.flowcode.com/page)
-- [Url.bio](https://url.bio/)
-- [LinkinProfile](https://linkinprofile.com/)
-- [Swipop](https://www.toolbase.io/swipop)
-- [Hype Link](https://hyp.link/)
-- [Linksome](https://linksome.me/s/)
-- [Biosites](https://biosites.com/)
-- [Linkjoy](https://linkjoy.io/)
-- [Instabio](https://instabio.cc/en)
-- [LinkHub](https://linkhub.online/)
-- [Litelink](https://litelink.at/)
-- [Snipfeed](https://snipfeed.co/)
-- [ThriveDesk Links](https://www.thrivedesk.com/)
-- [Biolincs](https://biolinc.me/)
-- [Linkfly](https://linkfly.to/en)
-- [Linkpaw](https://linkpaw.com/)
-- [Leadpages](https://www.leadpages.com/)
-- [LinkFly](https://linkfly.to)
-- [Cutt.ly](https://cutt.ly/)
-- [Linktree Alternative](https://linktreealternative.com/)
-- [AllMyLinks](https://allmylinks.com/)
-- [iLink](https://il.ink/)
-- [Bitly](https://bitly.com/)
-- [Elink](https://elink.io/)
-- [Zaap](https://www.zaap.ai/)
-- [LynxInBio](https://www.lynxinbio.com/)
-- [Pallyy](https://pallyy.com/)
-- [Everlinks](https://everlink.tools/)
-- [IGLinks.io](https://www.iglinks.io/)
-- [Hypage](https://hypage.com/)
-- [Tapkit](https://tapkit.com/)
-- [Feedlink](https://feed.link/)
-- [ContactInBio](https://www.contactinbio.com/)
-- [linkgallery](https://rebrandly.com/linkgallery)
-- [Liinks](https://www.liinks.co/)
-- [Linkpod](https://linkpod.co/)
-- [surveysparrow](https://surveysparrow.com/)
-- [ShortStack](https://www.shortstack.com/)
-- [Milkshake](https://milkshake.app/)
-- [Hopp by Wix](https://www.hopp.co/)
-- [Many.Bio](https://many.bio/)
-- [Mainpage](https://mainpage.me/)
-- [Tap.Bio](https://tap.bio/)
-- [The Leap](https://www.theleap.co/)
-- [Unbounce](https://unbounce.com/)
-- [Instapage](https://instapage.com/)
-- [Linkat](https://linkat.bio/)
-- [Stan](https://www.stan.com.au/)
-
+About Me: [about.me]
+AllMyLinks: [allmylinks.com]
+Beacons AI: [beacons.ai/fitehal]
+Bio.fm: [bio.fm]
+Biolincs: [biolinc.me]
+BioLinky.co: [biolinky.co]
+Biosites: [biosites.com]
+Bitly: [bitly.com]
+Campsite Bio: [app.campsite.bio/create-account]
+Carrd: [carrd.co/build]
+ContactInBio: [contactinbio.com]
+Cutt.ly: [cutt.ly]
+Elink: [elink.io]
+Everlinks: [everlink.tools]
+Feedlink: [feed.link]
+Flowpage: [flowcode.com/page]
+Hopp by Wix: [hopp.co]
+Hype Link: [hyp.link]
+Hypage: [hypage.com]
+IGLinks.io: [iglinks.io]
+iLink: [il.ink]
+Instabio: [instabio.cc/en]
+Instapage: [instapage.com]
+Leadpages: [leadpages.com]
+Limey: [limey.io]
+Linkat: [linkat.bio]
+Linkfly: [linkfly.to/en]
+LinkHub: [linkhub.online]
+LinkinProfile: [linkinprofile.com]
+LinkJoy: [linkjoy.io]
+Linkpaw: [linkpaw.com]
+LinkPod: [linkpod.co]
+Linksome: [linksome.me/s]
+Linktree: [linktr.ee]
+Linktree Alternative: [linktreealternative.com]
+LinkUp: [linkup.page]
+LinkUpPage: [linkup.page]
+Litelink: [litelink.at]
+Lnk.Bio: [lnk.bio/signup]
+LynxInBio: [lynxinbio.com]
+Mainpage: [mainpage.me]
+Many.Bio: [many.bio]
+Milkshake: [milkshake.app]
+Pallyy: [pallyy.com]
+Shorby: [dash.shor.by/smartpage]
+ShortStack: [shortstack.com]
+Snipfeed: [snipfeed.co]
+Solo.to: [solo.to]
+Stan: [stan.com.au]
+surveysparrow: [surveysparrow.com]
+Swipop: [toolbase.io/swipop]
+Tap.Bio: [tap.bio]
+Tapkit: [tapkit.com]
+Taplink: [taplink.at]
+The Leap: [theleap.co]
+ThriveDesk Links: [thrivedesk.com]
+Unbounce: [unbounce.com]
+Url.bio: [url.bio]
+Woorise: [woorise.com/templates]
+Zaap: [zaap.ai]
 
 
 ## Resources to Build Your Own
