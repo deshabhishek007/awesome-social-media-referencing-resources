@@ -19,7 +19,6 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Campsite Bio](https://app.campsite.bio/create-account)
 - [Carrd](https://carrd.co/build)
 - [ContactInBio](https://www.contactinbio.com/)
-- [ContactInBio](https://www.contactinbio.com/) - Duplicate entry
 - [Cutt.ly](https://cutt.ly/)
 - [Elink](https://elink.io/)
 - [Everlinks](https://everlink.tools/)
@@ -36,7 +35,6 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linelink](https://linelink.me/)
 - [Linkat](https://linkat.bio/)
 - [LinkFly](https://linkfly.to)
-- [Linkfly](https://linkfly.to/en) - Duplicate entry
 - [Linkgallery](https://rebrandly.com/linkgallery)
 - [LinkHub](https://linkhub.online/)
 - [LinkinProfile](https://linkinprofile.com/)
