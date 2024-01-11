@@ -60,6 +60,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [surveysparrow](https://surveysparrow.com/)
 - [ShortStack](https://www.shortstack.com/)
 - [Milkshake](https://milkshake.app/)
+- [Hopp by Wix](https://www.hopp.co/)
 
 
 
