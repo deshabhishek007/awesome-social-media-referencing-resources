@@ -63,6 +63,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Hopp by Wix](https://www.hopp.co/)
 - [Many.Bio](https://many.bio/)
 - [Mainpage](https://mainpage.me/)
+- [Tap.Bio](https://tap.bio/)
 
 
 
