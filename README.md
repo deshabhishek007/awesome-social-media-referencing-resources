@@ -70,6 +70,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Unbounce](https://unbounce.com/)
 - [Instapage](https://instapage.com/)
 - [Linkat](https://linkat.bio/)
+- [Stan](https://www.stan.com.au/)
 
 
 
