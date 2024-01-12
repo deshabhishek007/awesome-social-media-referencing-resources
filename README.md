@@ -77,6 +77,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [SleekBio](https://sleekbio.com/)
 - [Jemi](https://jemi.so/)
 - [Link in Profile](https://linkinprofile.com/)
+- [Elfsight](https://elfsight.com/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
