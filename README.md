@@ -74,7 +74,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [LinkTube](https://linktube.com/)
 - [Luma](https://lu.ma/)
 - [Linkpop](https://linkpop.com/en)
-
+- [SleekBio](https://sleekbio.com/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
