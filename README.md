@@ -76,6 +76,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Linkpop](https://linkpop.com/en)
 - [SleekBio](https://sleekbio.com/)
 - [Jemi](https://jemi.so/)
+- [Link in Profile](https://linkinprofile.com/)
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
 
