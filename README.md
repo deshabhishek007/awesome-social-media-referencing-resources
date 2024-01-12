@@ -67,6 +67,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Url.bio](https://url.bio/)
 - [Woorise](https://woorise.com/templates)
 - [Zaap](https://www.zaap.ai/)
+- [SendPulse](https://sendpulse.com/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
