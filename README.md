@@ -69,6 +69,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Zaap](https://www.zaap.ai/)
 - [SendPulse](https://sendpulse.com/)
 - [HeyGen](https://www.heygen.com/)
+- [Switchy](https://www.switchy.io/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
