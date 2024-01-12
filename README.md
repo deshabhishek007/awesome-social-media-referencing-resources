@@ -72,6 +72,8 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Switchy](https://www.switchy.io/)
 - [Pixela](https://pixe.la/)
 - [LinkTube](https://linktube.com/)
+- [Luma](https://lu.ma/)
+- [Linkpop](https://linkpop.com/en)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
