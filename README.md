@@ -70,6 +70,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [SendPulse](https://sendpulse.com/)
 - [HeyGen](https://www.heygen.com/)
 - [Switchy](https://www.switchy.io/)
+- [Pixela](https://pixe.la/)
 
 ## Resources to Build Your Own
 - [LinkStack](https://github.com/LinkStackOrg/LinkStack)
