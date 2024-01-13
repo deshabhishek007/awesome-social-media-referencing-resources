@@ -80,6 +80,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Elfsight](https://elfsight.com/)
 - [usebiolink](https://usebiolink.com/)
 - [Sociatap](https://sociatap.com/)
+- [Divsly Link in Bio](https://divsly.com/)
 
 
 
