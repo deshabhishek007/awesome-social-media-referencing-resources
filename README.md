@@ -79,6 +79,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Link in Profile](https://linkinprofile.com/)
 - [Elfsight](https://elfsight.com/)
 - [usebiolink](https://usebiolink.com/)
+- [Sociatap](https://sociatap.com/)
 
 
 
