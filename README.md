@@ -58,6 +58,7 @@ Our goal is to provide a comprehensive guide that covers the spectrum of tools a
 - [Mainpage](https://mainpage.me/)
 - [Many.Bio](https://many.bio/)
 - [Milkshake](https://milkshake.app/)
+- [Noise](https://noise.site/)
 - [Pallyy](https://pallyy.com/)
 - [Pixela](https://pixe.la/)
 - [Shorby](https://dash.shor.by/smartpage)
