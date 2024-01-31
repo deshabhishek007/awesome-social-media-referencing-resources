@@ -40,9 +40,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Linkat](https://linkat.bio/) - Your bio, your links.
 - [LinkFly](https://linkfly.to) - Create a beautiful link in bio.
 - [LinkHub](https://linkhub.online/) - Centralize your online presence.
-- [LinkinProfile](https://linkinprofile.com/) - Turn posts into purchases.
-- [Linkjoy](https://linkjoy.io/) - Retarget your audience.
-- [Linkpod](https://linkpod.co/) - Your digital business card.
 - [Linksome](https://linksome.me/s/) - Personalize your online links.
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content.
 - [Linktree Alternative](https://linktreealternative.com/) - Other options for your link in bio.
@@ -51,7 +48,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Lnk.Bio](https://lnk.bio/signup) - A new way to link.
 - [Link in Profile](https://linkinprofile.com/) - Direct links for Instagram.
 - [Linkpop](https://linkpop.com/en) - Sell products through your bio link.
-- [Luma](https://lu.ma/) - Hosting for your community events.
 - [LinkTube](https://linktube.com/) - Smartpages for smart creators.
 - [Mainpage](https://mainpage.me/) - All your links in one place.
 - [Many.Bio](https://many.bio/) - Multiple links for your bio.
