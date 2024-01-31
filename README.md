@@ -40,7 +40,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Jemi](https://jemi.so/) - Build your online presence effortlessly.
 - [Leadpages](https://www.leadpages.com/) - Turn clicks into customers.
 - [Limey](https://limey.io/) - Simplify your online links.
-- [Linelink](https://linelink.me/) - Direct link to your content.
 - [Linkat](https://linkat.bio/) - Your bio, your links.
 - [LinkFly](https://linkfly.to) - Create a beautiful link in bio.
 - [Linkgallery](https://rebrandly.com/linkgallery) - Showcase your links.
