@@ -62,6 +62,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Switchy](https://www.switchy.io/) - Customize and track your links.
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
 - [Taplink](https://taplink.at) - A link to your offers.
+- [Tiles](https://tiles.bio/) - The most beautiful link in bio on the internet!
 - [The Leap](https://www.theleap.co/) - Tools for creators.
 - [Url.bio](https://url.bio/) - Unite all your links.
 - [usebiolink](https://usebiolink.com/) - Bio link creation made easy.
