@@ -24,7 +24,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [BioLinky.co](https://biolinky.co/) - Your one-stop bio link.
 - [Biolincs](https://biolinc.me/) - Connecting your digital presence.
 - [Biosites](https://biosites.com/) - Custom sites for your bio links.
-- [Bitly](https://bitly.com/) - Shorten, brand, and track links.
+- [Bitly](https://bitly.com/pages/products/link-in-bio) - Shorten, brand, and track links.
 - [Campsite Bio](https://app.campsite.bio/create-account) - Design your digital campsite.
 - [Carrd](https://carrd.co/build) - Simple, free, fully responsive one-page sites.
 - [ContactInBio](https://www.contactinbio.com/) - More than just a bio link.
