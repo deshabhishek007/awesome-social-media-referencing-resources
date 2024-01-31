@@ -78,7 +78,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Unbounce](https://unbounce.com/) - Landing pages that convert more.
 - [Url.bio](https://url.bio/) - Unite all your links.
 - [usebiolink](https://usebiolink.com/) - Bio link creation made easy.
-- [Woorise](https://woorise.com/templates) - Grow your brand with contests.
+- [Woorise](https://woorise.com/templates/simple-bio-link) - Grow your brand with contests.
 - [Zaap](https://www.zaap.ai/) - Manage social media more effectively.
 
 
