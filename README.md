@@ -37,6 +37,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [IGLinks.io](https://www.iglinks.io/) - Instagram link optimization.
 - [iLink](https://il.ink/) - Multi-purpose link management.
 - [Instabio](https://instabio.cc/en) - Reimagine your Instagram bio.
+- [IndiePage](https://indiepa.ge/) - All your startups, on a page
 - [Jingle Bio](https://jingle.bio/) - Your Link-in-Bio Showcase for Personal Brand
 - [Limey](https://limey.io/) - Simplify your online links.
 - [Linkat](https://linkat.bio/) - Your bio, your links.
