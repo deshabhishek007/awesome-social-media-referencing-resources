@@ -20,7 +20,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [About Me](https://about.me) - Personalize your online identity.
 - [AllMyLinks](https://allmylinks.com/) - Unify all your social media links.
 - [Beacons AI](https://beacons.ai/fitehal) - AI-driven social media solutions.
-- [Bento](https://bento.me/) - A link in bio, but rich and beautiful
 - [Bio.fm](https://bio.fm/) - Creative bios for every platform.
 - [BioLinky.co](https://biolinky.co/) - Your one-stop bio link.
 - [Biolincs](https://biolinc.me/) - Connecting your digital presence.
@@ -38,7 +37,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [iLink](https://il.ink/) - Multi-purpose link management.
 - [Instabio](https://instabio.cc/en) - Reimagine your Instagram bio.
 - [IndiePage](https://indiepa.ge/) - All your startups, on a page
-- [Jingle Bio](https://jingle.bio/) - Your Link-in-Bio Showcase for Personal Brand
 - [Limey](https://limey.io/) - Simplify your online links.
 - [Linkat](https://linkat.bio/) - Your bio, your links.
 - [LinkFly](https://linkfly.to) - Create a beautiful link in bio.
@@ -63,7 +61,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Switchy](https://www.switchy.io/) - Customize and track your links.
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
 - [Taplink](https://taplink.at) - A link to your offers.
-- [Tiles](https://tiles.bio/) - The most beautiful link in bio on the internet!
 - [The Leap](https://www.theleap.co/) - Tools for creators.
 - [Url.bio](https://url.bio/) - Unite all your links.
 - [usebiolink](https://usebiolink.com/) - Bio link creation made easy.
