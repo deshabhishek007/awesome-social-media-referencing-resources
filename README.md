@@ -20,7 +20,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [About Me](https://about.me) - Personalize your online identity.
 - [AllMyLinks](https://allmylinks.com/) - Unify all your social media links.
 - [Beacons AI](https://beacons.ai/fitehal) - AI-driven social media solutions.
-- [Bento](https://bento.me/)
+- [Bento](https://bento.me/) - A link in bio, but rich and beautiful
 - [Bio.fm](https://bio.fm/) - Creative bios for every platform.
 - [BioLinky.co](https://biolinky.co/) - Your one-stop bio link.
 - [Biolincs](https://biolinc.me/) - Connecting your digital presence.
