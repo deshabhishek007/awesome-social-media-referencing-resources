@@ -59,7 +59,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [SleekBio](https://sleekbio.com/) - Make a sleek bio.
 - [Switchy](https://www.switchy.io/) - Customize and track your links.
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
-- [Tapkit](https://tapkit.com/) - Interactive links for influencers.
 - [Taplink](https://taplink.at) - A link to your offers.
 - [The Leap](https://www.theleap.co/) - Tools for creators.
 - [ThriveDesk Links](https://www.thrivedesk.com/) - Connect with your audience.
