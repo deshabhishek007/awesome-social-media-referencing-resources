@@ -58,7 +58,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Solo.to](https://solo.to/) - All your links in one place.
 - [Sociatap](https://sociatap.com/) - One link to rule them all.
 - [SleekBio](https://sleekbio.com/) - Make a sleek bio.
-- [Switchy](https://www.switchy.io/) - Customize and track your links.
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
 - [Taplink](https://taplink.at) - A link to your offers.
 - [The Leap](https://www.theleap.co/) - Tools for creators.
