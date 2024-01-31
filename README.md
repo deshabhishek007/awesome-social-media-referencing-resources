@@ -61,8 +61,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
 - [Taplink](https://taplink.at) - A link to your offers.
 - [The Leap](https://www.theleap.co/) - Tools for creators.
-- [ThriveDesk Links](https://www.thrivedesk.com/) - Connect with your audience.
-- [Unbounce](https://unbounce.com/) - Landing pages that convert more.
 - [Url.bio](https://url.bio/) - Unite all your links.
 - [usebiolink](https://usebiolink.com/) - Bio link creation made easy.
 - [Woorise](https://woorise.com/templates/simple-bio-link) - Grow your brand with contests.
