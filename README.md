@@ -51,6 +51,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Link in Profile](https://linkinprofile.com/) - Direct links for Instagram.
 - [Linkpop](https://linkpop.com/en) - Sell products through your bio link.
 - [LinkTube](https://linktube.com/) - Smartpages for smart creators.
+- [Linklab](https://linklab.site/) - Free branded link for your clunky link-in-bio
 - [Mainpage](https://mainpage.me/) - All your links in one place.
 - [Many.Bio](https://many.bio/) - Multiple links for your bio.
 - [Noise](https://noise.site/) - Simplify your online noise.
