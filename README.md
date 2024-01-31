@@ -26,7 +26,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Biosites](https://biosites.com/) - Custom sites for your bio links.
 - [Bitly](https://bitly.com/pages/products/link-in-bio) - Shorten, brand, and track links.
 - [Campsite Bio](https://app.campsite.bio/create-account) - Design your digital campsite.
-- [Carrd](https://carrd.co/build) - Simple, free, fully responsive one-page sites.
+- [Carrd](https://carrd.co/build#profile) - Simple, free, fully responsive one-page sites.
 - [ContactInBio](https://www.contactinbio.com/) - More than just a bio link.
 - [Cutt.ly](https://cutt.ly/) - Custom short URLs.
 - [Divsly Link in Bio](https://divsly.com/) - Enhance your Instagram bio.
