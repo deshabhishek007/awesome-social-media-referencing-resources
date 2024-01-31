@@ -47,7 +47,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content.
 - [Linktree Alternative](https://linktreealternative.com/) - Other options for your link in bio.
 - [Liinks](https://www.liinks.co/) - Where your links live.
-- [Litelink](https://litelink.at/) - Smart, simple link management.
 - [Lnk.Bio](https://lnk.bio/signup) - A new way to link.
 - [Link in Profile](https://linkinprofile.com/) - Direct links for Instagram.
 - [Linkpop](https://linkpop.com/en) - Sell products through your bio link.
