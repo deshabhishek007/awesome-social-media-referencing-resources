@@ -31,12 +31,8 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Divsly Link in Bio](https://divsly.com/features/link-in-bio) - Enhance your Instagram bio.
 - [Elink](https://elink.io/) - Curate and send newsletters.
 - [Everlinks](https://everlink.tools/) - Links that last forever.
-- [Elfsight](https://elfsight.com/) - Customizable widgets for your website.
 - [Feedlink](https://feed.link/) - Turn your feed into a clickable landing page.
-- [Flowpage](https://www.flowcode.com/page) - A gateway to your digital world.
-- [Hopp by Wix](https://www.hopp.co/) - Streamlined link creation with Wix.
-- [Hype Link](https://hyp.link/) - Maximize your link engagement.
-- [HeyGen](https://www.heygen.com/) - Personal branding simplified.
+- [Hopp by Wix](https://www.wix.com/hopp/join/link-in-bio) - Streamlined link creation with Wix.
 - [IGLinks.io](https://www.iglinks.io/) - Instagram link optimization.
 - [iLink](https://il.ink/) - Multi-purpose link management.
 - [Instabio](https://instabio.cc/en) - Reimagine your Instagram bio.
