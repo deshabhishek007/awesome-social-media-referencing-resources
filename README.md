@@ -28,7 +28,6 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Campsite Bio](https://app.campsite.bio/create-account) - Design your digital campsite.
 - [Carrd](https://carrd.co/build#profile) - Simple, free, fully responsive one-page sites.
 - [ContactInBio](https://www.contactinbio.com/) - More than just a bio link.
-- [Cutt.ly](https://cutt.ly/) - Custom short URLs.
 - [Divsly Link in Bio](https://divsly.com/features/link-in-bio) - Enhance your Instagram bio.
 - [Elink](https://elink.io/) - Curate and send newsletters.
 - [Everlinks](https://everlink.tools/) - Links that last forever.
