@@ -25,6 +25,8 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Biolincs](https://biolinc.me/) - Connecting your digital presence.
 - [Biosites](https://biosites.com/) - Custom sites for your bio links.
 - [Bitly](https://bitly.com/pages/products/link-in-bio) - Shorten, brand, and track links.
+- [Bento](https://bento.me/en/home) - A link in bio, but rich and beautiful.
+- [bio.link](https://bio.link/) 
 - [Campsite Bio](https://app.campsite.bio/create-account) - Design your digital campsite.
 - [Carrd](https://carrd.co/build#profile) - Simple, free, fully responsive one-page sites.
 - [ContactInBio](https://www.contactinbio.com/) - More than just a bio link.
@@ -37,6 +39,7 @@ Enhance your social media journey with these meticulously chosen resources:
 - [iLink](https://il.ink/) - Multi-purpose link management.
 - [Instabio](https://instabio.cc/en) - Reimagine your Instagram bio.
 - [IndiePage](https://indiepa.ge/) - All your startups, on a page
+- [Joy.Link](https://joy.link/) - Free IG bio link tool to showcase multiple social profiles
 - [Limey](https://limey.io/) - Simplify your online links.
 - [Linkat](https://linkat.bio/) - Your bio, your links.
 - [LinkFly](https://linkfly.to) - Create a beautiful link in bio.
@@ -60,9 +63,11 @@ Enhance your social media journey with these meticulously chosen resources:
 - [SleekBio](https://sleekbio.com/) - Make a sleek bio.
 - [Tap.Bio](https://tap.bio/) - Create a mini-website for your Instagram bio.
 - [Taplink](https://taplink.at) - A link to your offers.
+- [Tipptree](https://tipptree.com/) - Collect ZERO Commission tips from followers & fans
 - [The Leap](https://www.theleap.co/) - Tools for creators.
 - [Url.bio](https://url.bio/) - Unite all your links.
 - [usebiolink](https://usebiolink.com/) - Bio link creation made easy.
+- [UniLink for Instagram](https://unilink.us/) - Turn your Instagram into a clickable, shoppable landing page
 - [Woorise](https://woorise.com/templates/simple-bio-link) - Grow your brand with contests.
 - [Zaap](https://www.zaap.ai/) - Manage social media more effectively.
 
