@@ -1,3 +1,4 @@
+<!-- Modified 2026-10-07: proposed a Swedish guide-list category and entry. This modified list remains distributed under the existing GNU GPL v3 licence; see LICENSE. -->
 # Awesome Social Media Referencing Resources
 
 ## Welcome Aboard!
@@ -71,6 +72,10 @@ Enhance your social media journey with these meticulously chosen resources:
 - [Woorise](https://woorise.com/templates/simple-bio-link) - Grow your brand with contests.
 - [Zaap](https://www.zaap.ai/) - Manage social media more effectively.
 
+
+## Guides and Learning Resources
+
+- [KopFollowers Swedish Social Media Guide Collection](https://kopfollowers.se/guides) - Twelve editorial guides on Instagram/TikTok content, metric definitions and service conditions; published by the service operator.
 
 ## Build Your Own
 - **[LinkStack](https://github.com/LinkStackOrg/LinkStack)**: Forge your unique social media referencing tool.
